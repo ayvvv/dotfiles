@@ -1,0 +1,4 @@
+alias shc="vim ${HOME}/.zshrc"
+alias shs="source ${HOME}/.zshrc"
+
+alias vimc="vim ${HOME}/.config/nvim/init.vim"
